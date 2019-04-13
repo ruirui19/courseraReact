@@ -24,7 +24,7 @@ export default function Header(props) {
           <NavbarToggler onClick={toggleNav} />
           <NavbarBrand className="mr-auto" href="/">
             <img
-              src="assets/logo.png"
+              src="../assets/logo.png"
               height="30"
               width="41"
               alt="Ristorante Con Fusion"
