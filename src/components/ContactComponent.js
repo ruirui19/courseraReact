@@ -46,7 +46,7 @@ export default function Contact(props) {
             <a
               role="button"
               className="btn btn-primary"
-              href="tel:+85212345678"
+              href="tel:+01212345678"
             >
               <i className="fa fa-phone" /> Call
             </a>
